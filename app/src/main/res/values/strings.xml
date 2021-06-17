@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">RyDemo</string>
+    <string name="ry_data_content">
+  [{"name":"gx","age":"25","height":"178","weight": "60kg","phone":"18546237854"},
+  {"name":"张三","age":"110","height":"158","weight": "50kg","phone":"18346237854"},
+  {"name":"李四","age":"2","height":"168","weight": "55kg","phone":"18146237854"},
+  {"name":"王五","age":"15","height":"188","weight": "56kg","phone":"18246237854"},
+  {"name":"赵六","age":"65","height":"148","weight": "54kg","phone":"1846237854"},
+  {"name":"中国移动","age":"28","height":"165","weight": "61kg","phone":"18546237854"},
+  {"name":"中国电信","age":"36","height":"160","weight": "63kg","phone":"18646237854"},
+  {"name":"10010","age":"69","height":"162","weight": "66kg","phone":"18746237854"},
+  {"name":"爱你一万年","age":"51","height":"169","weight": "70kg","phone":"18846237854"},
+  {"name":"我","age":"45","height":"152","weight": "80kg","phone":"18946237854"},
+  {"name":"call财","age":"85","height":"174","weight": "81kg","phone":"17846237854"},
+  {"name":"大大狭","age":"74","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"张谷英","age":"71","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"湖南","age":"72","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"长沙","age":"76","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"张家界","age":"64","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"凤凰","age":"92","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"华山","age":"91","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"吐槽大会","age":"90","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"大宅门","age":"94","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"股票","age":"93","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"今晚你会来深圳嘛","age":"88","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"我和空姐有一个约会","age":"81","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"网络发达的地方经济越发达是真理","age":"82","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"我发现睡觉的时候腿会发麻","age":"83","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"大武汉","age":"51","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"上海的夜很美","age":"52","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"走走婷婷","age":"53","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"大浪淘沙","age":"54","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"布达拉宫","age":"55","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"天安门","age":"56","height":"138","weight": "83kg","phone":"17146237854"},
+  {"name":"长城","age":"57","height":"138","weight": "83kg","phone":"17146237854"}]
+    </string>
+    <string name="ry_position">1</string><!--加载的方向 0表示水平，1表示竖直 -->
+    <string name="ry_page_sizes">4</string>
+    <string name="ry_total_sizes">50</string>
+    <string name="ry_item_height">74</string>
+    <string name="ry_item_width">280</string>
+    <string name="ry_serial_num_loop">0</string>  <!--子Item序号是否循环,0否1是 -->
+</resources>
